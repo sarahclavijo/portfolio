@@ -1030,7 +1030,7 @@ footer .footer_m {
   box-shadow: 0px 4px #c1c1c1;
 }
 .about_page .about_bg {
-  background-image: url("../portfolio/images/About/bg_img.png");
+  background-image: url("./images/About/bg_img.png");
   background-size: contain;
 }
 .about_page .about_bg .date,
@@ -1046,7 +1046,7 @@ footer .footer_m {
   border-top: 1px solid #333333;
 }
 .about_page .about_bg2 {
-  background-image: url("../portfolio/images/About/bg_img2.png");
+  background-image: url("./images/About/bg_img2.png");
   background-size: contain;
 }
 .about_page .about_bg2 .date {
