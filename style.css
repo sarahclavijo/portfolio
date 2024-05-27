@@ -362,7 +362,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 670px;
+  margin: 0 auto;
   /* Removed border */
 }
 
